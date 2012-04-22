@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="arrowDown">arrowDown.png</file>
+        <file alias="arrowUp">arrowUp.png</file>
+        <file alias="jquery">jquery1.7.1.js</file>
+        <file alias="base">base.js</file>
+        <file alias="odIcon">od.png</file>
+    </qresource>
+</RCC>
