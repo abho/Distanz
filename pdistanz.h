@@ -7,7 +7,6 @@
 #include <QNetworkAccessManager>
 #include <QNetworkReply>
 #include <QtWebKit>
-#include "gviewmanager.h"
 #include "odplanet.h"
 #include "dbhandler.h"
 #include "kampf.h"

@@ -4,6 +4,7 @@
 #include <QStringList>
 #include <QPair>
 #include <QSqlQuery>
+#include <QVariant>
 class ODPlanet
 {
 public:

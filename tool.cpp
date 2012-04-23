@@ -1,5 +1,6 @@
 #include "tool.h"
 #include <cmath>
+
 Tool::Tool()
 {
 }

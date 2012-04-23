@@ -5,6 +5,8 @@
 #include <QDebug>
 #include <QStringList>
 #include <QSqlQuery>
+#include <QVariant>
+#include <QMetaType>
 
 class Tool
 {
@@ -56,9 +58,10 @@ public:
     bool operator !=(const ESystem &other) const;
 
 
-};
 
-Q_DECLARE_METATYPE(ESystem)
+
+};
+ Q_DECLARE_METATYPE(ESystem)
 
 class DistanzPair {
 public:

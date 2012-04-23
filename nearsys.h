@@ -4,7 +4,7 @@
 #include <QWidget>
 #include <QDebug>
 #include<QtCore>
-#include <qtgui>
+#include <QtGui>
 #include "tool.h"
 #include "sendmenu.h"
 
